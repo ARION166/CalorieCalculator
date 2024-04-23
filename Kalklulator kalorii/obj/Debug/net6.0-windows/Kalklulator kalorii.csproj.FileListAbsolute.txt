@@ -1,0 +1,54 @@
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Kalklulator kalorii.exe
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Kalklulator kalorii.deps.json
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Kalklulator kalorii.runtimeconfig.json
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Kalklulator kalorii.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Kalklulator kalorii.pdb
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\App.g.cs
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii_MarkupCompile.cache
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii_MarkupCompile.lref
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.g.resources
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.GeneratedMSBuildEditorConfig.editorconfig
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.AssemblyInfoInputs.cache
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.AssemblyInfo.cs
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.csproj.CoreCompileInputs.cache
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\refint\Kalklulator kalorii.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.pdb
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.genruntimeconfig.cache
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\ref\Kalklulator kalorii.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Humanizer.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.csproj.AssemblyReference.cache
+D:\SZKOŁA\Semestr 4\Programowanie\Kalklulator kalorii\Kalklulator kalorii\obj\Debug\net6.0-windows\Kalklulator kalorii.csproj.CopyComplete
